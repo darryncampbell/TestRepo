@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.symbol</groupId>
+  <groupId>com.symbol.emdk</groupId>
   <artifactId>emdk</artifactId>
   <versioning>
     <release>5.0.0</release>
